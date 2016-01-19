@@ -29,4 +29,4 @@ the testMSE decrease then increase by the increase of B0, like this:
     > BDSforFunctionOfB(trainX,trainY,testX,testY,s1,s2,eta,BSequence)  
 
 
-![image](https://github.com/vincent101/DS-BDS/ScreenShot1.png)
+![image](https://raw.githubusercontent.com/vincent101/DS-BDS/master/ScreenShot1.png)
